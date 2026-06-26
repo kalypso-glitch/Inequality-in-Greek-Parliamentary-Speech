@@ -13,8 +13,8 @@ def term_searching(file):
     #term=input(f"Enter the term you want to search for in {file}: ")
 
     #or directly
-    term = r"ρατσισμός"
-    pattern = r'ρατσισ.*\b'
+    term = r"διακρίσεις"
+    pattern = r'\bδιάκριση|διακρίσεις'
 
     #initialize an empty list to be returned and saved in the output file
     results = []

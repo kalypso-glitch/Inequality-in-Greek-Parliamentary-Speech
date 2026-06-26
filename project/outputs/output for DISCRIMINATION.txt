@@ -1,0 +1,63 @@
+Regex: r'\bδιάκριση|διακρίσεις'
+
+[32m
+
+	Term 'διακρίσεις' found 85 times in data\1989.txt[0m[32m
+
+	Term 'διακρίσεις' found 318 times in data\1990.txt[0m[32m
+
+	Term 'διακρίσεις' found 328 times in data\1991.txt[0m[32m
+
+	Term 'διακρίσεις' found 459 times in  data\1992.txt[0m[32m
+
+	Term 'διακρίσεις' found 315 times in  data\1993.txt[0m[32m
+
+	Term 'διακρίσεις' found 229 times in  data\1994.txt[0m[32m
+
+	Term 'διακρίσεις' found 64 times in  data\1996.txt[0m[32m
+
+	Term 'διακρίσεις' found 392 times in  data\1997.txt[0m[32m
+
+	Term 'διακρίσεις' found 171 times in  data\1998.txt[0m[32m
+
+	Term 'διακρίσεις' found 330 times in  data\1999.txt[0m[32m
+
+	Term 'διακρίσεις' found 183 times in  data\2000.txt[0m[32m
+
+	Term 'διακρίσεις' found 388 times in  data\2001.txt[0m[32m
+
+	Term 'διακρίσεις' found 229 times in  data\2002.txt[0m[32m
+
+	Term 'διακρίσεις' found 250 times in  data\2003.txt[0m[32m
+
+	Term 'διακρίσεις' found 259 times in  data\2004.txt[0m[32m
+
+	Term 'διακρίσεις' found 409 times in  data\2005.txt[0m[32m
+
+	Term 'διακρίσεις' found 308 times in  data\2006.txt[0m[32m
+
+	Term 'διακρίσεις' found 291 times in  data\2007.txt[0m[32m
+
+	Term 'διακρίσεις' found 574 times in  data\2008.txt[0m[32m
+
+	Term 'διακρίσεις' found 260 times in  data\2009.txt[0m[32m
+
+	Term 'διακρίσεις' found 406 times in  data\2010.txt[0m[32m
+
+	Term 'διακρίσεις' found 305 times in  data\2011.txt[0m[32m
+
+	Term 'διακρίσεις' found 229 times in  data\2012.txt[0m[32m
+
+	Term 'διακρίσεις' found 414 times in  data\2013.txt[0m[32m
+
+	Term 'διακρίσεις' found 375 times in  data\2014.txt[0m[32m
+
+	Term 'διακρίσεις' found 256 times in  data\2015.txt[0m[32m
+
+	Term 'διακρίσεις' found 299 times in  data\2016.txt[0m[32m
+
+	Term 'διακρίσεις' found 229 times in  data\2017.txt[0m[32m
+
+	Term 'διακρίσεις' found 258 times in  data\2018.txt[0m[32m
+
+	Term 'διακρίσεις' found 518 times in  data\2019.txt[0m
