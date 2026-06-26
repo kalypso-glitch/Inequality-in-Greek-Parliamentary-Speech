@@ -1,0 +1,63 @@
+Regex: r'ρατσισ.*\b'
+
+[32m
+
+	Term 'ρατσισμός' found 2 times in data\1989.txt[0m[32m
+
+	Term 'ρατσισμός' found 40 times in data\1990.txt[0m[32m
+
+	Term 'ρατσισμός' found 89 times in data\1991.txt[0m[32m
+
+	Term 'ρατσισμός' found 85 times in data\1992.txt[0m[32m
+
+	Term 'ρατσισμός' found 69 times in data\1993.txt[0m[32m
+
+	Term 'ρατσισμός' found 29 times in data\1994.txt[0m[32m
+
+	Term 'ρατσισμός' found 29 times in data\1996.txt[0m[32m
+
+	Term 'ρατσισμός' found 84 times in data\1997.txt[0m[32m
+
+	Term 'ρατσισμός' found 75 times in data\1998.txt[0m[32m
+
+	Term 'ρατσισμός' found 93 times in data\1999.txt[0m[32m
+
+	Term 'ρατσισμός' found 54 times in data\2000.txt[0m[32m
+
+	Term 'ρατσισμός' found 121 times in data\2001.txt[0m[32m
+
+	Term 'ρατσισμός' found 41 times in data\2002.txt[0m[32m
+
+	Term 'ρατσισμός' found 61 times in data\2003.txt[0m[32m
+
+	Term 'ρατσισμός' found 58 times in data\2004.txt[0m[32m
+
+	Term 'ρατσισμός' found 118 times in data\2005.txt[0m[32m
+
+	Term 'ρατσισμός' found 54 times in data\2006.txt[0m[32m
+
+	Term 'ρατσισμός' found 78 times in data\2007.txt[0m[32m
+
+	Term 'ρατσισμός' found 231 times in data\2008.txt[0m[32m
+
+	Term 'ρατσισμός' found 101 times in data\2009.txt[0m[32m
+
+	Term 'ρατσισμός' found 174 times in data\2010.txt[0m[32m
+
+	Term 'ρατσισμός' found 120 times in data\2011.txt[0m[32m
+
+	Term 'ρατσισμός' found 148 times in data\2012.txt[0m[32m
+
+	Term 'ρατσισμός' found 350 times in data\2013.txt[0m[32m
+
+	Term 'ρατσισμός' found 876 times in data\2014.txt[0m[32m
+
+	Term 'ρατσισμός' found 356 times in data\2015.txt[0m[32m
+
+	Term 'ρατσισμός' found 353 times in data\2016.txt[0m[32m
+
+	Term 'ρατσισμός' found 169 times in data\2017.txt[0m[32m
+
+	Term 'ρατσισμός' found 197 times in data\2018.txt[0m[32m
+
+	Term 'ρατσισμός' found 248 times in data\2019.txt[0m

@@ -1,0 +1,63 @@
+Regex: r'\bανισότη(ς|τας?)|ανισοτήτων\b'
+
+[32m
+
+	Term 'ανισότητα' found 29 times in data\1989.txt[0m[32m
+
+	Term 'ανισότητα' found 79 times in data\1990.txt[0m[32m
+
+	Term 'ανισότητα' found 69 times in data\1991.txt[0m[32m
+
+	Term 'ανισότητα' found 131 times in data\1992.txt[0m[32m
+
+	Term 'ανισότητα' found 37 times in data\1993.txt[0m[32m
+
+	Term 'ανισότητα' found 48 times in data\1994.txt[0m[32m
+
+	Term 'ανισότητα' found 39 times in data\1996.txt[0m[32m
+
+	Term 'ανισότητα' found 74 times in data\1997.txt[0m[32m
+
+	Term 'ανισότητα' found 69 times in data\1998.txt[0m[32m
+
+	Term 'ανισότητα' found 135 times in data\1999.txt[0m[32m
+
+	Term 'ανισότητα' found 91 times in data\2000.txt[0m[32m
+
+	Term 'ανισότητα' found 173 times in data\2001.txt[0m[32m
+
+	Term 'ανισότητα' found 143 times in data\2002.txt[0m[32m
+
+	Term 'ανισότητα' found 163 times in data\2003.txt[0m[32m
+
+	Term 'ανισότητα' found 145 times in data\2004.txt[0m[32m
+
+	Term 'ανισότητα' found 159 times in data\2005.txt[0m[32m
+
+	Term 'ανισότητα' found 164 times in data\2006.txt[0m[32m
+
+	Term 'ανισότητα' found 123 times in data\2007.txt[0m[32m
+
+	Term 'ανισότητα' found 291 times in data\2008.txt[0m[32m
+
+	Term 'ανισότητα' found 159 times in data\2009.txt[0m[32m
+
+	Term 'ανισότητα' found 161 times in data\2010.txt[0m[32m
+
+	Term 'ανισότητα' found 130 times in data\2011.txt[0m[32m
+
+	Term 'ανισότητα' found 64 times in data\2012.txt[0m[32m
+
+	Term 'ανισότητα' found 122 times in data\2013.txt[0m[32m
+
+	Term 'ανισότητα' found 101 times in data\2014.txt[0m[32m
+
+	Term 'ανισότητα' found 89 times in data\2015.txt[0m[32m
+
+	Term 'ανισότητα' found 147 times in data\2016.txt[0m[32m
+
+	Term 'ανισότητα' found 132 times in data\2017.txt[0m[32m
+
+	Term 'ανισότητα' found 115 times in data\2018.txt[0m[32m
+
+	Term 'ανισότητα' found 247 times in data\2019.txt[0m

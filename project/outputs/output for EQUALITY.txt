@@ -1,0 +1,63 @@
+Regex: r'\bισότη(ς|τας?)|\bισοτήτων\b'
+
+[32m
+
+	Term 'ισότητα' found 34 times in data\1989.txt[0m[32m
+
+	Term 'ισότητα' found 285 times in data\1990.txt[0m[32m
+
+	Term 'ισότητα' found 141 times in data\1991.txt[0m[32m
+
+	Term 'ισότητα' found 170 times in data\1992.txt[0m[32m
+
+	Term 'ισότητα' found 129 times in data\1993.txt[0m[32m
+
+	Term 'ισότητα' found 159 times in data\1994.txt[0m[32m
+
+	Term 'ισότητα' found 54 times in data\1996.txt[0m[32m
+
+	Term 'ισότητα' found 313 times in data\1997.txt[0m[32m
+
+	Term 'ισότητα' found 130 times in data\1998.txt[0m[32m
+
+	Term 'ισότητα' found 177 times in data\1999.txt[0m[32m
+
+	Term 'ισότητα' found 109 times in data\2000.txt[0m[32m
+
+	Term 'ισότητα' found 270 times in data\2001.txt[0m[32m
+
+	Term 'ισότητα' found 119 times in data\2002.txt[0m[32m
+
+	Term 'ισότητα' found 158 times in data\2003.txt[0m[32m
+
+	Term 'ισότητα' found 142 times in data\2004.txt[0m[32m
+
+	Term 'ισότητα' found 343 times in data\2005.txt[0m[32m
+
+	Term 'ισότητα' found 375 times in data\2006.txt[0m[32m
+
+	Term 'ισότητα' found 168 times in data\2007.txt[0m[32m
+
+	Term 'ισότητα' found 423 times in data\2008.txt[0m[32m
+
+	Term 'ισότητα' found 330 times in data\2009.txt[0m[32m
+
+	Term 'ισότητα' found 366 times in data\2010.txt[0m[32m
+
+	Term 'ισότητα' found 233 times in data\2011.txt[0m[32m
+
+	Term 'ισότητα' found 259 times in data\2012.txt[0m[32m
+
+	Term 'ισότητα' found 327 times in data\2013.txt[0m[32m
+
+	Term 'ισότητα' found 227 times in data\2014.txt[0m[32m
+
+	Term 'ισότητα' found 204 times in data\2015.txt[0m[32m
+
+	Term 'ισότητα' found 381 times in data\2016.txt[0m[32m
+
+	Term 'ισότητα' found 243 times in data\2017.txt[0m[32m
+
+	Term 'ισότητα' found 241 times in data\2018.txt[0m[32m
+
+	Term 'ισότητα' found 710 times in data\2019.txt[0m
