@@ -2,5 +2,5 @@
 
 
 
-### Corpus used: http://hdl.handle.net/11500/ATHENA-0000-0000-5D62-A
+### Corpus used: Greek Parliament Plenary Sessions (1989-2019) (2019). [Dataset (Text corpus)]. CLARIN:EL. http://hdl.handle.net/11500/CLARIN-EL-0000-0000-687C-1
 
