@@ -4,3 +4,7 @@ re
 colorama
 matplotlib
 matplotlib.pyplot
+argostranslate
+html
+scikit-learn
+stopwordsiso

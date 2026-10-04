@@ -1,0 +1,63 @@
+Regex: r'περιθωριοποίηση(ς)|περιθωριοποιήσεις|περιθωριοποιήθηκ..|περιθωριοποιείται|περιθωριοποιούνται|περιθωριοποιημέν..'
+
+[32m
+
+	Term 'περιθωριοποίηση' found 4 times in data\1989.txt[0m[32m
+
+	Term 'περιθωριοποίηση' found 14 times in data\1990.txt[0m[32m
+
+	Term 'περιθωριοποίηση' found 23 times in data\1991.txt[0m[32m
+
+	Term 'περιθωριοποίηση' found 34 times in data\1992.txt[0m[32m
+
+	Term 'περιθωριοποίηση' found 10 times in data\1993.txt[0m[32m
+
+	Term 'περιθωριοποίηση' found 12 times in data\1994.txt[0m[32m
+
+	Term 'περιθωριοποίηση' found 13 times in data\1996.txt[0m[32m
+
+	Term 'περιθωριοποίηση' found 18 times in data\1997.txt[0m[32m
+
+	Term 'περιθωριοποίηση' found 18 times in data\1998.txt[0m[32m
+
+	Term 'περιθωριοποίηση' found 33 times in data\1999.txt[0m[32m
+
+	Term 'περιθωριοποίηση' found 25 times in data\2000.txt[0m[32m
+
+	Term 'περιθωριοποίηση' found 32 times in data\2001.txt[0m[32m
+
+	Term 'περιθωριοποίηση' found 16 times in data\2002.txt[0m[32m
+
+	Term 'περιθωριοποίηση' found 33 times in data\2003.txt[0m[32m
+
+	Term 'περιθωριοποίηση' found 17 times in data\2004.txt[0m[32m
+
+	Term 'περιθωριοποίηση' found 35 times in data\2005.txt[0m[32m
+
+	Term 'περιθωριοποίηση' found 26 times in data\2006.txt[0m[32m
+
+	Term 'περιθωριοποίηση' found 34 times in data\2007.txt[0m[32m
+
+	Term 'περιθωριοποίηση' found 53 times in data\2008.txt[0m[32m
+
+	Term 'περιθωριοποίηση' found 23 times in data\2009.txt[0m[32m
+
+	Term 'περιθωριοποίηση' found 24 times in data\2010.txt[0m[32m
+
+	Term 'περιθωριοποίηση' found 21 times in data\2011.txt[0m[32m
+
+	Term 'περιθωριοποίηση' found 17 times in data\2012.txt[0m[32m
+
+	Term 'περιθωριοποίηση' found 19 times in data\2013.txt[0m[32m
+
+	Term 'περιθωριοποίηση' found 13 times in data\2014.txt[0m[32m
+
+	Term 'περιθωριοποίηση' found 15 times in data\2015.txt[0m[32m
+
+	Term 'περιθωριοποίηση' found 30 times in data\2016.txt[0m[32m
+
+	Term 'περιθωριοποίηση' found 20 times in data\2017.txt[0m[32m
+
+	Term 'περιθωριοποίηση' found 17 times in data\2018.txt[0m[32m
+
+	Term 'περιθωριοποίηση' found 18 times in data\2019.txt[0m

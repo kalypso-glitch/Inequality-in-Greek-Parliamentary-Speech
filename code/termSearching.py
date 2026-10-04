@@ -13,8 +13,8 @@ def term_searching(file):
     #term=input(f"Enter the term you want to search for in {file}: ")
 
     #or directly
-    term = r"διακρίσεις"
-    pattern = r'\bδιάκριση|διακρίσεις'
+    term = r'στερεότυπο'
+    pattern = r'στερεότυπ.*\b|στερεοτύπ.*\b|στερεοτυπ.*\b'
 
     #initialize an empty list to be returned and saved in the output file
     results = []
@@ -27,6 +27,8 @@ def term_searching(file):
         try:
             if re.search(pattern, line, re.IGNORECASE):
                 print('\n', i, line)
+                #TAKE HASHTAG OUT WHEN RUNNING THE makingGrid.py FILE
+                results.append(line.strip())
                 freqdict[pattern] = freqdict.get(pattern, 0) + 1
 
         #handling exceptions
@@ -35,15 +37,17 @@ def term_searching(file):
             print(statement)
             
     #printing how many times the term was found
-    dict_result= (Fore.GREEN + f"\n\n\tTerm '{term}' found {freqdict[pattern]} times in {file}" + Style.RESET_ALL)
-    print(dict_result)
-    results.append(dict_result)
+    #dict_result= (Fore.GREEN + f"\n\n\tTerm '{term}' found {freqdict[pattern]} times in {file}" + Style.RESET_ALL)
+    #print(dict_result)
+    #results.append(dict_result)
 
 
-    # closing file
-    f.close()
+    # closing file is unncessary because of the 'with' statement
+    #f.close()
 
-    return "\n".join(results)
+    #return results when running the makingGrid file
+    return results
+    #return '\n'.join(results)
 
 
-#term_searching('data/1989.txt')
+#term_searching('data/1991.txt')

@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import re
 
 #opening an output file
-with open(r'outputs\output for EQUALITY.txt', 'r', encoding="utf-8") as f:
+with open(r'outputs\STEREOTYPE_output.txt', 'r', encoding="utf-8") as f:
     text=f.read()
     f.close()
 
@@ -19,7 +19,7 @@ numlist= list(map(int, lis))
 
 
 #making a bar graph
-plt.title('USE OF WORD "Equality"')
+plt.title('USE OF WORD "Stereotype"')
 plt.bar(years, numlist)
 plt.xticks(years, rotation=45)
 plt.xlabel('Years')
